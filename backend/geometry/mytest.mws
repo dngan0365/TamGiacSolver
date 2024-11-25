@@ -1,0 +1,581 @@
+{VERSION 4 0 "Windows 11" "4.0" }
+{USTYLETAB {PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0
+ 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "War
+ning" -1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0
+ 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Outp
+ut" -1 12 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 
+}1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "
+" -1 -1 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE "" -1 -1 "Courier" 1 9 0 0 
+255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Head
+ing 4" -1 20 1 {CSTYLE "" -1 -1 "Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printed Output" -1 6 1
+ {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 
+0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" -1 -1 "T
+imes" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 3" 
+-1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1
+ "Courier" 1 10 64 128 64 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2
+ 2 -1 1 }{PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times" 1 
+12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE 
+"Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2
+ 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Ordered List 2" 
+-1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered List 3" -1 202 1 {CSTYLE
+ "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 72 2
+ 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 1 {CSTYLE "" -1 -1 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 108 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 2 -1 1 }{PSTYLE "Annota
+tion Title" -1 205 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2
+ 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Output12" -1 
+206 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0
+ 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkError" -1 207 1 {CSTYLE "" 
+-1 -1 "Courier New" 1 12 255 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 
+2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 208 1 {CSTYLE "" -1 -1
+ "Courier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0
+ 2 2 -1 1 }{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" -1 -1 "Times" 1 12
+ 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "M
+aple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1
+ 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "List Item" -1 14 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3
+ 2 0 2 0 2 2 -1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "" -1 -1 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Error" -1 8 1 {CSTYLE "" -1 -1 "Courier" 1 10 255 0 255 1 2 2
+ 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Title" -1 18 
+1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 1 2 2 2 1 0 0 1 }3 1 0 0 
+12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "Time
+s" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2
+ 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{CSTYLE "Help Variable" -1
+ 25 "Courier" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlin
+ed Bold" -1 41 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Copy
+right" -1 34 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple \+
+Comment" -1 21 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Po
+pup" -1 31 "Times" 1 12 0 128 128 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Atom
+ic Variable" -1 200 "Times" 1 12 175 0 175 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Dictionary Hyperlink" -1 45 "Times" 1 12 147 0 15 1 2 2 1 2 2
+ 2 0 0 0 1 }{CSTYLE "Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 
+0 0 0 1 }{CSTYLE "2D Input" -1 19 "Times" 1 12 255 0 0 1 2 2 2 2 1 2 0
+ 0 0 1 }{CSTYLE "Code" -1 201 "Courier New" 1 12 255 0 0 1 2 2 2 2 2 2
+ 0 0 0 1 }{CSTYLE "2D Math Italic" -1 3 "Times" 1 12 0 0 0 1 1 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "2D Math Small" -1 7 "Times" 1 1 0 0 0 1 2 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "2D Math Bold Small" -1 10 "Times" 1 1 0 0 0 1 2 1
+ 2 2 2 2 0 0 0 1 }{CSTYLE "Help Bold" -1 39 "Times" 1 12 0 0 0 1 2 1 2
+ 2 2 2 0 0 0 1 }{CSTYLE "Help Menus" -1 36 "Times" 1 12 0 0 0 1 2 1 2 
+2 2 2 0 0 0 1 }{CSTYLE "Help Heading" -1 26 "Times" 1 14 0 0 0 1 2 1 2
+ 2 2 2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "Times" 1 12 0 0 255 1 2 2 2
+ 2 2 2 0 0 0 1 }{CSTYLE "2D Inert Output" -1 202 "Times" 1 12 144 144 
+144 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Help Normal" -1 30 "Times" 1 12 0 
+0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input" -1 0 "Courier" 1 12 
+255 0 0 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "Page Number" -1 33 "Times" 1 
+12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Header and Footer" -1 203 "Ti
+mes" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small20
+4" -1 204 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Fixed
+" -1 23 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math I
+talic Small206" -1 205 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Output Labels" -1 29 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 
+}{CSTYLE "2D Math Italic Small205" -1 206 "Times" 1 1 0 0 0 1 1 2 2 2 
+2 2 0 0 0 1 }{CSTYLE "Help Notes" -1 37 "Times" 1 12 0 0 0 1 2 1 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Help Underlined" -1 44 "Times" 1 12 0 0 0 1 2 2 1
+ 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small" -1 207 "Times" 1 1 0 0 
+0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2" -1 16 "Times" 1 12
+ 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small207" -1 208
+ "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Time
+s" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Nonterminal" -1 24 
+"Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Annotation Text" 
+-1 209 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Maple N
+ame" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Text
+" -1 210 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Title
+" -1 27 "Times" 1 10 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underl
+ined Italic" -1 43 "Times" 1 12 0 0 0 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "
+Caption Reference" -1 211 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Default" -1 38 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Italic Bold" -1 40 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "Maple Input Placeholder" -1 212 "Courier New" 1 12 200 0
+ 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "LaTeX" -1 32 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized" -1 22 "Times" 1 12 0 0
+ 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Equation Label" -1 213 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Comment" -1 18 "Times" 1 12 
+0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic" -1 42 "Times" 1 12 
+0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Prompt" -1 1 "Courier" 1 12 0 0 
+0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold" -1 5 "Times" 1 12 0 0 
+0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Hyperlink" -1 17 "Times" 1 12 0 128 
+128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Caption Text" -1 214 "Times" 1 12 
+0 0 0 1 2 1 2 2 2 2 0 0 0 1 }}
+{SECT 0 {EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "read(\"" }{MPLTEXT 
+1 0 79 "C:/Users/ACER/OneDrive/Desktop/code-20241107T162946Z-001/code/
+MangTinhToan.m\");" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 19 "with(MangTi
+nhToan);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7+I)ApQuanheG6\"I)BaodongwGF
+$I&BasewGF$I,CompletionwGF$I-Completionw1GF$I)EvalSolwGF$I,OpSolutionw
+GF$I,ReadObjectwGF$I*SolutionwGF$" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 13 "ReadObjectw(\"" }{MPLTEXT 1 0 62 "C:/Users/ACER/OneDr
+ive/Desktop/code-20241107T162946Z-001/code/" }{MPLTEXT 1 0 15 "TAM_GIA
+C.txt\");" }}{PARA 11 "" 1 "" {XPPMATH 20 "7&I)TAM_GIACG6\"7/I\"aGF$I
+\"bGF$I\"cGF$I\"AGF$I\"BGF$I\"CGF$I#haGF$I#hbGF$I#hcGF$I\"SGF$I\"pGF$I
+\"RGF$I\"rGF$737)Q/~~~relation~~0F$\"\"\"<%F)F*F+F6<\"I.~~A+B+C~=~Pi~G
+F$\"\"$7)Q/~~~relation~~1F$\"\"!<&F)F&F'F(F6<#F&IA~~a^2~=~b^2~+~c^2~-~
+2*b*c*cos(A)GF$\"#>7)Q/~~~relation~~2F$F=<&F*F&F'F(F6<#F'I?b^2~=~a^2~+
+~c^2~-~2*a*c*cos(B)GF$FA7)Q/~~~relation~~3F$F=<&F+F&F'F(F6<#F(I?c^2~=~
+a^2~+~b^2~-~2*a*b*cos(C)GF$FA7)Q/~~~relation~~4F$F6<&F)F*F&F'F6F8I5a*s
+in(B)~=~b*sin(A)~GF$\"\")7)Q.~~relation~~5F$F6<&F*F+F'F(F6F8I4b*sin(C)
+~=~c*sin(B)GF$FP7)Q/~~~relation~~6F$F6<&F)F+F&F(F6F8I4a*sin(C)~=~c*sin
+(A)GF$FP7)Q0~~~~relation~~7F$F6<%F)F1F&F6F8I/a~=~2*R*sin(A)GF$\"\"'7)Q
+/~~~relation~~8F$F6<%F*F1F'F6F8I/b~=~2*R*sin(B)GF$Fgn7)Q/~~~relation~~
+9F$F6<%F+F1F(F6F8I/c~=~2*R*sin(C)GF$Fgn7)Q0~~~relation~~10F$F6<&F&F'F(
+F0F6F8I,2*p~=~a+b+cGF$\"\"%7)Q0~~~relation~~11F$F6<%F/F&F,F6F8I,~S~=~a
+*ha/2GF$Fdo7)Q0~~~relation~~12F$F6<%F/F'F-F6F8I+S~=~b*hb/2GF$Fdo7)Q0~~
+~relation~~13F$F6<%F/F(F.F6F8I+S~=~c*hc/2GF$Fdo7)Q0~~~relation~~14F$F6
+<%F/F0F2F6F8I(S~=~p*rGF$\"\"#7)Q0~~~relation~~15F$F=<'F/F&F'F(F0F6<#F/
+I>S~=~sqrt(p*(p-a)*(p-b)*(p-c))GF$\"#77)Q0~~~relation~~16F$F6<&F)F/F'F
+(F6F8I-S~=~a*b*c/4RGF$FP70Q1object=~TAM_GIACF$Q7~~~~~~a~=~\"doan[B,~C]
+\"F$Q7~~~~~~b~=~\"doan[A,~C]\"F$Q7~~~~~~c~=~\"doan[B,~C]\"F$Q=~~~~~~A~
+=~\"goc~cua~tam~giac\"F$Q=~~~~~~B~=~\"goc~cua~tam~giac\"F$Q=~~~~~~C~=~
+\"goc~cua~tam~giac\"F$QU~~~~~~ha~=~\"duong~cao~ung~voi~canh~a~trong~ta
+m~giac\"F$QU~~~~~~hb~=~\"duong~cao~ung~voi~canh~b~trong~tam~giac\"F$QU
+~~~~~~hc~=~\"duong~cao~ung~voi~canh~c~trong~tam~giac\"F$Q?~~~~~~S~=~\"
+dien~tich~tam~giac\"F$QD~~~~~~p~=~\"nua~chu~vi~cua~tam~giac\"F$QT~~~~~
+~R~=~\"ban~kinh~duong~tron~ngoai~tiep~tam~giac\"F$QR~~~~~~r~=~\"ban~ki
+nh~duong~tron~noi~tiep~tam~giac\"F$" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 16 "F:=ReadObjectw(\"" }{MPLTEXT 1 0 62 "C:/Users/ACER/On
+eDrive/Desktop/code-20241107T162946Z-001/code/" }{MPLTEXT 1 0 18 "TAM_
+GIAC.txt\")[3];" }}{PARA 11 "" 1 "" {XPPMATH 20 ">I\"FG6\"737)Q/~~~rel
+ation~~0F$\"\"\"<%I\"AGF$I\"BGF$I\"CGF$F(<\"I.~~A+B+C~=~Pi~GF$\"\"$7)Q
+/~~~relation~~1F$\"\"!<&F*I\"aGF$I\"bGF$I\"cGF$F(<#F4IA~~a^2~=~b^2~+~c
+^2~-~2*b*c*cos(A)GF$\"#>7)Q/~~~relation~~2F$F2<&F+F4F5F6F(<#F5I?b^2~=~
+a^2~+~c^2~-~2*a*c*cos(B)GF$F97)Q/~~~relation~~3F$F2<&F,F4F5F6F(<#F6I?c
+^2~=~a^2~+~b^2~-~2*a*b*cos(C)GF$F97)Q/~~~relation~~4F$F(<&F*F+F4F5F(F-
+I5a*sin(B)~=~b*sin(A)~GF$\"\")7)Q.~~relation~~5F$F(<&F+F,F5F6F(F-I4b*s
+in(C)~=~c*sin(B)GF$FH7)Q/~~~relation~~6F$F(<&F*F,F4F6F(F-I4a*sin(C)~=~
+c*sin(A)GF$FH7)Q0~~~~relation~~7F$F(<%F*I\"RGF$F4F(F-I/a~=~2*R*sin(A)G
+F$\"\"'7)Q/~~~relation~~8F$F(<%F+FTF5F(F-I/b~=~2*R*sin(B)GF$FV7)Q/~~~r
+elation~~9F$F(<%F,FTF6F(F-I/c~=~2*R*sin(C)GF$FV7)Q0~~~relation~~10F$F(
+<&F4F5F6I\"pGF$F(F-I,2*p~=~a+b+cGF$\"\"%7)Q0~~~relation~~11F$F(<%I\"SG
+F$F4I#haGF$F(F-I,~S~=~a*ha/2GF$F^o7)Q0~~~relation~~12F$F(<%FboF5I#hbGF
+$F(F-I+S~=~b*hb/2GF$F^o7)Q0~~~relation~~13F$F(<%FboF6I#hcGF$F(F-I+S~=~
+c*hc/2GF$F^o7)Q0~~~relation~~14F$F(<%FboF\\oI\"rGF$F(F-I(S~=~p*rGF$\"
+\"#7)Q0~~~relation~~15F$F2<'FboF4F5F6F\\oF(<#FboI>S~=~sqrt(p*(p-a)*(p-
+b)*(p-c))GF$\"#77)Q0~~~relation~~16F$F(<&F*FboF5F6F(F-I-S~=~a*b*c/4RGF
+$FH" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "Baodongw(convert(F,s
+et),\{a,b,S\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "<'I\"SG6\"I\"aGF$I\"b
+GF$I#haGF$I#hbGF$" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "Baodon
+gw(convert(F,set),\{r,A,b\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "<%I\"AG
+6\"I\"bGF$I\"rGF$" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "Soluti
+onw(\"TAM_GIAC.txt\",\{b,c,A\},\{a,S\});" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "7$I%trueG%*protectedG7%7)Q/~~~relation~~16\"\"\"!<&I\"AGF(I\"aGF(I
+\"bGF(I\"cGF(\"\"\"<#F,IA~~a^2~=~b^2~+~c^2~-~2*b*c*cos(A)GF(\"#>7)Q0~~
+~relation~~10F(F/<&F,F-F.I\"pGF(F/<\"I,2*p~=~a+b+cGF(\"\"%7)Q0~~~relat
+ion~~15F(F)<'I\"SGF(F,F-F.F6F/<#F=I>S~=~sqrt(p*(p-a)*(p-b)*(p-c))GF(\"
+#7" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 38 "Solutionw(\"TAM_GIAC.
+txt\",\{a,b,c\},\{r\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$I%trueG%*pr
+otectedG7%7)Q0~~~relation~~106\"\"\"\"<&I\"aGF(I\"bGF(I\"cGF(I\"pGF(F)
+<\"I,2*p~=~a+b+cGF(\"\"%7)Q0~~~relation~~15F(\"\"!<'I\"SGF(F+F,F-F.F)<
+#F6I>S~=~sqrt(p*(p-a)*(p-b)*(p-c))GF(\"#77)Q0~~~relation~~14F(F)<%F6F.
+I\"rGF(F)F/I(S~=~p*rGF(\"\"#" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 38 "Solutionw(\"TAM_GIAC.txt\",\{A,B,a\},\{S\});" }}{PARA 11 "" 1 ""
+ {XPPMATH 20 "7$I%trueG%*protectedG7'7)Q/~~~relation~~06\"\"\"\"<%I\"A
+GF(I\"BGF(I\"CGF(F)<\"I.~~A+B+C~=~Pi~GF(\"\"$7)Q/~~~relation~~4F(F)<&F
++F,I\"aGF(I\"bGF(F)F.I5a*sin(B)~=~b*sin(A)~GF(\"\")7)Q/~~~relation~~3F
+(\"\"!<&F-F4F5I\"cGF(F)<#F<I?c^2~=~a^2~+~b^2~-~2*a*b*cos(C)GF(\"#>7)Q0
+~~~relation~~10F(F)<&F4F5F<I\"pGF(F)F.I,2*p~=~a+b+cGF(\"\"%7)Q0~~~rela
+tion~~15F(F:<'I\"SGF(F4F5F<FCF)<#FII>S~=~sqrt(p*(p-a)*(p-b)*(p-c))GF(
+\"#7" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 39 "Solutionw(\"TAM_GIA
+C.txt\",\{a,b,c\},\{ha\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$I%trueG%
+*protectedG7%7)Q0~~~relation~~106\"\"\"\"<&I\"aGF(I\"bGF(I\"cGF(I\"pGF
+(F)<\"I,2*p~=~a+b+cGF(\"\"%7)Q0~~~relation~~15F(\"\"!<'I\"SGF(F+F,F-F.
+F)<#F6I>S~=~sqrt(p*(p-a)*(p-b)*(p-c))GF(\"#77)Q0~~~relation~~11F(F)<%F
+6F+I#haGF(F)F/I,~S~=~a*ha/2GF(F1" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT
+ 1 0 42 "Solutionw(\"TAM_GIAC.txt\",\{a,b,c\},\{A,B,C\});" }}{PARA 11 
+"" 1 "" {XPPMATH 20 "7$I%trueG%*protectedG7'7)Q0~~~relation~~106\"\"\"
+\"<&I\"aGF(I\"bGF(I\"cGF(I\"pGF(F)<\"I,2*p~=~a+b+cGF(\"\"%7)Q0~~~relat
+ion~~15F(\"\"!<'I\"SGF(F+F,F-F.F)<#F6I>S~=~sqrt(p*(p-a)*(p-b)*(p-c))GF
+(\"#77)Q0~~~relation~~16F(F)<&I\"AGF(F6F,F-F)F/I-S~=~a*b*c/4RGF(\"\")7
+)Q/~~~relation~~4F(F)<&F=I\"BGF(F+F,F)F/I5a*sin(B)~=~b*sin(A)~GF(F?7)Q
+/~~~relation~~0F(F)<%F=FCI\"CGF(F)F/I.~~A+B+C~=~Pi~GF(\"\"$" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 38 "Solutionw(\"TAM_GIAC.txt\",
+\{a,b,c\},\{S\});" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$I%trueG%*protecte
+dG7$7)Q0~~~relation~~106\"\"\"\"<&I\"aGF(I\"bGF(I\"cGF(I\"pGF(F)<\"I,2
+*p~=~a+b+cGF(\"\"%7)Q0~~~relation~~15F(\"\"!<'I\"SGF(F+F,F-F.F)<#F6I>S
+~=~sqrt(p*(p-a)*(p-b)*(p-c))GF(\"#7" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 38 "Solutionw(\"TAM_GIAC.txt\",\{a,b,c\},\{S\});" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "7$I%trueG%*protectedG7$7)Q0~~~relation~~
+106\"\"\"\"<&I\"aGF(I\"bGF(I\"cGF(I\"pGF(F)<\"I,2*p~=~a+b+cGF(\"\"%7)Q
+0~~~relation~~15F(\"\"!<'I\"SGF(F+F,F-F.F)<#F6I>S~=~sqrt(p*(p-a)*(p-b)
+*(p-c))GF(\"#7" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 39 "Solutionw
+(\"TAM_GIAC.txt\",\{a,b,A\},\{ha\});" }{MPLTEXT 1 0 0 "" }}{PARA 11 ""
+ 1 "" {XPPMATH 20 "7$I%trueG%*protectedG7(7)Q/~~~relation~~46\"\"\"\"<
+&I\"AGF(I\"BGF(I\"aGF(I\"bGF(F)<\"I5a*sin(B)~=~b*sin(A)~GF(\"\")7)Q/~~
+~relation~~0F(F)<%F+F,I\"CGF(F)F/I.~~A+B+C~=~Pi~GF(\"\"$7)Q/~~~relatio
+n~~3F(\"\"!<&F5F-F.I\"cGF(F)<#F<I?c^2~=~a^2~+~b^2~-~2*a*b*cos(C)GF(\"#
+>7)Q0~~~relation~~10F(F)<&F-F.F<I\"pGF(F)F/I,2*p~=~a+b+cGF(\"\"%7)Q0~~
+~relation~~15F(F:<'I\"SGF(F-F.F<FCF)<#FII>S~=~sqrt(p*(p-a)*(p-b)*(p-c)
+)GF(\"#77)Q0~~~relation~~11F(F)<%FIF-I#haGF(F)F/I,~S~=~a*ha/2GF(FE" }}
+}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting
+:-mi(\"Solutionw\", family = \"Monospaced\", bold = \"true\", italic =
+ \"false\", mathvariant = \"bold\", fontweight = \"bold\"), Typesettin
+g:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\", italic = \"true\", \+
+mathvariant = \"italic\"), Typesetting:-ms(\"TAM_GIAC.txt\"), Typesett
+ing:-mo(\",\", family = \"Monospaced\", bold = \"true\", mathvariant =
+ \"bold\", fontweight = \"bold\", fence = \"false\", separator = \"tru
+e\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\",
+ movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rs
+pace = \"0.3333333em\", equality = \"false\"), Typesetting:-mfenced(Ty
+pesetting:-mrow(Typesetting:-mi(\"a\", family = \"Monospaced\", bold =
+ \"true\", italic = \"false\", mathvariant = \"bold\", fontweight = \"
+bold\"), Typesetting:-mo(\",\", family = \"Monospaced\", bold = \"true
+\", mathvariant = \"bold\", fontweight = \"bold\", fence = \"false\", \+
+separator = \"true\", stretchy = \"false\", symmetric = \"false\", lar
+geop = \"false\", movablelimits = \"false\", accent = \"false\", lspac
+e = \"0.0em\", rspace = \"0.3333333em\", equality = \"false\"), Typese
+tting:-mi(\"b\", family = \"Monospaced\", bold = \"true\", italic = \"
+false\", mathvariant = \"bold\", fontweight = \"bold\"), Typesetting:-
+mo(\",\", family = \"Monospaced\", bold = \"true\", mathvariant = \"bo
+ld\", fontweight = \"bold\", fence = \"false\", separator = \"true\", \+
+stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mova
+blelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace \+
+= \"0.3333333em\", equality = \"false\"), Typesetting:-mi(\"S\", famil
+y = \"Monospaced\", bold = \"true\", italic = \"false\", mathvariant =
+ \"bold\", fontweight = \"bold\")), family = \"Monospaced\", bold = \"
+true\", mathvariant = \"bold\", fontweight = \"bold\", open = \"\{\", \+
+close = \"\}\"), Typesetting:-mo(\",\", family = \"Monospaced\", bold \+
+= \"true\", mathvariant = \"bold\", fontweight = \"bold\", fence = \"f
+alse\", separator = \"true\", stretchy = \"false\", symmetric = \"fals
+e\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.3333333em\", equality = \"false\"
+), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"A\", famil
+y = \"Monospaced\", bold = \"true\", italic = \"false\", mathvariant =
+ \"bold\", fontweight = \"bold\")), family = \"Monospaced\", bold = \"
+true\", mathvariant = \"bold\", fontweight = \"bold\", open = \"\{\", \+
+close = \"\}\")), family = \"Monospaced\", bold = \"true\", mathvarian
+t = \"bold\", fontweight = \"bold\"), Typesetting:-mo(\";\", family = \+
+\"Monospaced\", bold = \"true\", mathvariant = \"bold\", fontweight = \+
+\"bold\", fence = \"false\", separator = \"true\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.2777778em\",
+ equality = \"false\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(
+_syslibGF'6%-I#miGF$6(Q*SolutionwF'/%'familyGQ+MonospacedF'/%%boldGQ%t
+rueF'/%'italicGQ&falseF'/%,mathvariantGQ%boldF'/%+fontweightGF:-I(mfen
+cedGF$6'-F#6(-F,6%Q!F'/F6F4/F9Q'italicF'-I#msGF$6#Q-TAM_GIAC.txtF'-I#m
+oGF$61Q\",F'F/F2F8F;/%&fenceGF7/%*separatorGF4/%)stretchyGF7/%*symmetr
+icGF7/%(largeopGF7/%.movablelimitsGF7/%'accentGF7/%'lspaceGQ&0.0emF'/%
+'rspaceGQ,0.3333333emF'/%)equalityGF7-F>6)-F#6'-F,6(Q\"aF'F/F2F5F8F;FL
+-F,6(Q\"bF'F/F2F5F8F;FL-F,6(Q\"SF'F/F2F5F8F;F/F2F8F;/%%openGQ\"|frF'/%
+&closeGQ\"|hrF'FL-F>6)-F#6#-F,6(Q\"AF'F/F2F5F8F;F/F2F8F;F]pF`pF/F2F8F;
+-FM61Q\";F'F/F2F8F;FPFRFTFVFXFZFfnFhn/F\\oQ,0.2777778emF'F^o" }}{PARA 
+11 "" 1 "" {XPPMATH 20 "7$I&falseG%*protectedG7\"" }}}{EXCHG {PARA 0 "
+> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:-mo(\" \", famil
+y = \"Monospaced\", bold = \"true\", mathvariant = \"bold\", fontweigh
+t = \"bold\", fence = \"false\", separator = \"false\", stretchy = \"f
+alse\", symmetric = \"false\", largeop = \"false\", movablelimits = \"
+false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\", e
+quality = \"false\"), Typesetting:-mi(\"Solutionw\", family = \"Monosp
+aced\", bold = \"true\", italic = \"false\", mathvariant = \"bold\", f
+ontweight = \"bold\"), Typesetting:-mfenced(Typesetting:-mrow(Typesett
+ing:-mi(\"\", italic = \"true\", mathvariant = \"italic\"), Typesettin
+g:-ms(\"TAM_GIAC.txt\"), Typesetting:-mo(\",\", family = \"Monospaced
+\", bold = \"true\", mathvariant = \"bold\", fontweight = \"bold\", fe
+nce = \"false\", separator = \"true\", stretchy = \"false\", symmetric
+ = \"false\", largeop = \"false\", movablelimits = \"false\", accent =
+ \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\", equality = \+
+\"false\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"a
+\", family = \"Monospaced\", bold = \"true\", italic = \"false\", math
+variant = \"bold\", fontweight = \"bold\"), Typesetting:-mo(\",\", fam
+ily = \"Monospaced\", bold = \"true\", mathvariant = \"bold\", fontwei
+ght = \"bold\", fence = \"false\", separator = \"true\", stretchy = \"
+false\", symmetric = \"false\", largeop = \"false\", movablelimits = \+
+\"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.333333
+3em\", equality = \"false\"), Typesetting:-mi(\"A\", family = \"Monosp
+aced\", bold = \"true\", italic = \"false\", mathvariant = \"bold\", f
+ontweight = \"bold\"), Typesetting:-mo(\",\", family = \"Monospaced\",
+ bold = \"true\", mathvariant = \"bold\", fontweight = \"bold\", fence
+ = \"false\", separator = \"true\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.3333333em\", equality = \"fa
+lse\"), Typesetting:-mi(\"B\", family = \"Monospaced\", bold = \"true
+\", italic = \"false\", mathvariant = \"bold\", fontweight = \"bold\")
+), family = \"Monospaced\", bold = \"true\", mathvariant = \"bold\", f
+ontweight = \"bold\", open = \"\{\", close = \"\}\"), Typesetting:-mo(
+\",\", family = \"Monospaced\", bold = \"true\", mathvariant = \"bold
+\", fontweight = \"bold\", fence = \"false\", separator = \"true\", st
+retchy = \"false\", symmetric = \"false\", largeop = \"false\", movabl
+elimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \+
+\"0.3333333em\", equality = \"false\"), Typesetting:-mfenced(Typesetti
+ng:-mrow(Typesetting:-mi(\"b\", family = \"Monospaced\", bold = \"true
+\", italic = \"false\", mathvariant = \"bold\", fontweight = \"bold\")
+), family = \"Monospaced\", bold = \"true\", mathvariant = \"bold\", f
+ontweight = \"bold\", open = \"\{\", close = \"\}\")), family = \"Mono
+spaced\", bold = \"true\", mathvariant = \"bold\", fontweight = \"bold
+\"), Typesetting:-mo(\";\", family = \"Monospaced\", bold = \"true\", \+
+mathvariant = \"bold\", fontweight = \"bold\", fence = \"false\", sepa
+rator = \"true\", stretchy = \"false\", symmetric = \"false\", largeop
+ = \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.2777778em\", equality = \"false\"));" "-I%mrow
+G6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6&-I#moGF$61Q\"~F'/%'fam
+ilyGQ+MonospacedF'/%%boldGQ%trueF'/%,mathvariantGQ%boldF'/%+fontweight
+GF7/%&fenceGQ&falseF'/%*separatorGF</%)stretchyGF</%*symmetricGF</%(la
+rgeopGF</%.movablelimitsGF</%'accentGF</%'lspaceGQ&0.0emF'/%'rspaceGFK
+/%)equalityGF<-I#miGF$6(Q*SolutionwF'F/F2/%'italicGF<F5F8-I(mfencedGF$
+6'-F#6(-FQ6%Q!F'/FUF4/F6Q'italicF'-I#msGF$6#Q-TAM_GIAC.txtF'-F,61Q\",F
+'F/F2F5F8F:/F>F4F?FAFCFEFGFI/FMQ,0.3333333emF'FN-FW6)-F#6'-FQ6(Q\"aF'F
+/F2FTF5F8F_o-FQ6(Q\"AF'F/F2FTF5F8F_o-FQ6(Q\"BF'F/F2FTF5F8F/F2F5F8/%%op
+enGQ\"|frF'/%&closeGQ\"|hrF'F_o-FW6)-F#6#-FQ6(Q\"bF'F/F2FTF5F8F/F2F5F8
+FbpFepF/F2F5F8-F,61Q\";F'F/F2F5F8F:FboF?FAFCFEFGFI/FMQ,0.2777778emF'FN
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$I%trueG%*protectedG7#7)Q/~~~relati
+on~~46\"\"\"\"<&I\"AGF(I\"BGF(I\"aGF(I\"bGF(F)<\"I5a*sin(B)~=~b*sin(A)
+~GF(\"\")" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mro
+w(Typesetting:-mi(\"Solutionw\", family = \"Monospaced\", bold = \"tru
+e\", italic = \"false\", mathvariant = \"bold\", fontweight = \"bold\"
+), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\", italic
+ = \"true\", mathvariant = \"italic\"), Typesetting:-ms(\"TAM_GIAC.txt
+\"), Typesetting:-mo(\",\", family = \"Monospaced\", bold = \"true\", \+
+mathvariant = \"bold\", fontweight = \"bold\", fence = \"false\", sepa
+rator = \"true\", stretchy = \"false\", symmetric = \"false\", largeop
+ = \"false\", movablelimits = \"false\", accent = \"false\", lspace = \+
+\"0.0em\", rspace = \"0.3333333em\", equality = \"false\"), Typesettin
+g:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"a\", family = \"Monospa
+ced\", bold = \"true\", italic = \"false\", mathvariant = \"bold\", fo
+ntweight = \"bold\"), Typesetting:-mo(\",\", family = \"Monospaced\", \+
+bold = \"true\", mathvariant = \"bold\", fontweight = \"bold\", fence \+
+= \"false\", separator = \"true\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.3333333em\", equality = \"fa
+lse\"), Typesetting:-mi(\"A\", family = \"Monospaced\", bold = \"true
+\", italic = \"false\", mathvariant = \"bold\", fontweight = \"bold\")
+, Typesetting:-mo(\",\", family = \"Monospaced\", bold = \"true\", mat
+hvariant = \"bold\", fontweight = \"bold\", fence = \"false\", separat
+or = \"true\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.0em\", rspace = \"0.3333333em\", equality = \"false\"), Typesetting:-
+mi(\"B\", family = \"Monospaced\", bold = \"true\", italic = \"false\"
+, mathvariant = \"bold\", fontweight = \"bold\")), family = \"Monospac
+ed\", bold = \"true\", mathvariant = \"bold\", fontweight = \"bold\", \+
+open = \"\{\", close = \"\}\"), Typesetting:-mo(\",\", family = \"Mono
+spaced\", bold = \"true\", mathvariant = \"bold\", fontweight = \"bold
+\", fence = \"false\", separator = \"true\", stretchy = \"false\", sym
+metric = \"false\", largeop = \"false\", movablelimits = \"false\", ac
+cent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\", equali
+ty = \"false\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-m
+i(\"S\", family = \"Monospaced\", bold = \"true\", italic = \"false\",
+ mathvariant = \"bold\", fontweight = \"bold\")), family = \"Monospace
+d\", bold = \"true\", mathvariant = \"bold\", fontweight = \"bold\", o
+pen = \"\{\", close = \"\}\")), family = \"Monospaced\", bold = \"true
+\", mathvariant = \"bold\", fontweight = \"bold\"), Typesetting:-mo(\"
+;\", family = \"Monospaced\", bold = \"true\", mathvariant = \"bold\",
+ fontweight = \"bold\", fence = \"false\", separator = \"true\", stret
+chy = \"false\", symmetric = \"false\", largeop = \"false\", movableli
+mits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0
+.2777778em\", equality = \"false\"));" "-I%mrowG6#/I+modulenameG6\"I,T
+ypesettingGI(_syslibGF'6%-I#miGF$6(Q*SolutionwF'/%'familyGQ+Monospaced
+F'/%%boldGQ%trueF'/%'italicGQ&falseF'/%,mathvariantGQ%boldF'/%+fontwei
+ghtGF:-I(mfencedGF$6'-F#6(-F,6%Q!F'/F6F4/F9Q'italicF'-I#msGF$6#Q-TAM_G
+IAC.txtF'-I#moGF$61Q\",F'F/F2F8F;/%&fenceGF7/%*separatorGF4/%)stretchy
+GF7/%*symmetricGF7/%(largeopGF7/%.movablelimitsGF7/%'accentGF7/%'lspac
+eGQ&0.0emF'/%'rspaceGQ,0.3333333emF'/%)equalityGF7-F>6)-F#6'-F,6(Q\"aF
+'F/F2F5F8F;FL-F,6(Q\"AF'F/F2F5F8F;FL-F,6(Q\"BF'F/F2F5F8F;F/F2F8F;/%%op
+enGQ\"|frF'/%&closeGQ\"|hrF'FL-F>6)-F#6#-F,6(Q\"SF'F/F2F5F8F;F/F2F8F;F
+]pF`pF/F2F8F;-FM61Q\";F'F/F2F8F;FPFRFTFVFXFZFfnFhn/F\\oQ,0.2777778emF'
+F^o" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$I%trueG%*protectedG7'7)Q/~~~rel
+ation~~06\"\"\"\"<%I\"AGF(I\"BGF(I\"CGF(F)<\"I.~~A+B+C~=~Pi~GF(\"\"$7)
+Q/~~~relation~~4F(F)<&F+F,I\"aGF(I\"bGF(F)F.I5a*sin(B)~=~b*sin(A)~GF(
+\"\")7)Q/~~~relation~~3F(\"\"!<&F-F4F5I\"cGF(F)<#F<I?c^2~=~a^2~+~b^2~-
+~2*a*b*cos(C)GF(\"#>7)Q0~~~relation~~10F(F)<&F4F5F<I\"pGF(F)F.I,2*p~=~
+a+b+cGF(\"\"%7)Q0~~~relation~~15F(F:<'I\"SGF(F4F5F<FCF)<#FII>S~=~sqrt(
+p*(p-a)*(p-b)*(p-c))GF(\"#7" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1
+ "Typesetting:-mrow(Typesetting:-mi(\"Solutionw\", family = \"Monospac
+ed\", bold = \"true\", italic = \"false\", mathvariant = \"bold\", fon
+tweight = \"bold\"), Typesetting:-mfenced(Typesetting:-mrow(Typesettin
+g:-mi(\"\", italic = \"true\", mathvariant = \"italic\"), Typesetting:
+-ms(\"TAM_GIAC.txt\"), Typesetting:-mo(\",\", family = \"Monospaced\",
+ bold = \"true\", mathvariant = \"bold\", fontweight = \"bold\", fence
+ = \"false\", separator = \"true\", stretchy = \"false\", symmetric = \+
+\"false\", largeop = \"false\", movablelimits = \"false\", accent = \"
+false\", lspace = \"0.0em\", rspace = \"0.3333333em\", equality = \"fa
+lse\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"a\", \+
+family = \"Monospaced\", bold = \"true\", italic = \"false\", mathvari
+ant = \"bold\", fontweight = \"bold\"), Typesetting:-mo(\",\", family \+
+= \"Monospaced\", bold = \"true\", mathvariant = \"bold\", fontweight \+
+= \"bold\", fence = \"false\", separator = \"true\", stretchy = \"fals
+e\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fal
+se\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\"
+, equality = \"false\"), Typesetting:-mi(\"A\", family = \"Monospaced
+\", bold = \"true\", italic = \"false\", mathvariant = \"bold\", fontw
+eight = \"bold\"), Typesetting:-mo(\",\", family = \"Monospaced\", bol
+d = \"true\", mathvariant = \"bold\", fontweight = \"bold\", fence = \+
+\"false\", separator = \"true\", stretchy = \"false\", symmetric = \"f
+alse\", largeop = \"false\", movablelimits = \"false\", accent = \"fal
+se\", lspace = \"0.0em\", rspace = \"0.3333333em\", equality = \"false
+\"), Typesetting:-mi(\"B\", family = \"Monospaced\", bold = \"true\", \+
+italic = \"false\", mathvariant = \"bold\", fontweight = \"bold\")), f
+amily = \"Monospaced\", bold = \"true\", mathvariant = \"bold\", fontw
+eight = \"bold\", open = \"\{\", close = \"\}\"), Typesetting:-mo(\",
+\", family = \"Monospaced\", bold = \"true\", mathvariant = \"bold\", \+
+fontweight = \"bold\", fence = \"false\", separator = \"true\", stretc
+hy = \"false\", symmetric = \"false\", largeop = \"false\", movablelim
+its = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.
+3333333em\", equality = \"false\"), Typesetting:-mfenced(Typesetting:-
+mrow(Typesetting:-mi(\"r\", family = \"Monospaced\", bold = \"true\", \+
+italic = \"false\", mathvariant = \"bold\", fontweight = \"bold\")), f
+amily = \"Monospaced\", bold = \"true\", mathvariant = \"bold\", fontw
+eight = \"bold\", open = \"\{\", close = \"\}\")), family = \"Monospac
+ed\", bold = \"true\", mathvariant = \"bold\", fontweight = \"bold\"),
+ Typesetting:-mo(\";\", family = \"Monospaced\", bold = \"true\", math
+variant = \"bold\", fontweight = \"bold\", fence = \"false\", separato
+r = \"true\", stretchy = \"false\", symmetric = \"false\", largeop = \+
+\"false\", movablelimits = \"false\", accent = \"false\", lspace = \"0
+.0em\", rspace = \"0.2777778em\", equality = \"false\"), Typesetting:-
+mo(\" \", family = \"Monospaced\", bold = \"true\", mathvariant = \"bo
+ld\", fontweight = \"bold\", fence = \"false\", separator = \"false\",
+ stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mov
+ablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace
+ = \"0.0em\", equality = \"false\"));" "-I%mrowG6#/I+modulenameG6\"I,T
+ypesettingGI(_syslibGF'6&-I#miGF$6(Q*SolutionwF'/%'familyGQ+Monospaced
+F'/%%boldGQ%trueF'/%'italicGQ&falseF'/%,mathvariantGQ%boldF'/%+fontwei
+ghtGF:-I(mfencedGF$6'-F#6(-F,6%Q!F'/F6F4/F9Q'italicF'-I#msGF$6#Q-TAM_G
+IAC.txtF'-I#moGF$61Q\",F'F/F2F8F;/%&fenceGF7/%*separatorGF4/%)stretchy
+GF7/%*symmetricGF7/%(largeopGF7/%.movablelimitsGF7/%'accentGF7/%'lspac
+eGQ&0.0emF'/%'rspaceGQ,0.3333333emF'/%)equalityGF7-F>6)-F#6'-F,6(Q\"aF
+'F/F2F5F8F;FL-F,6(Q\"AF'F/F2F5F8F;FL-F,6(Q\"BF'F/F2F5F8F;F/F2F8F;/%%op
+enGQ\"|frF'/%&closeGQ\"|hrF'FL-F>6)-F#6#-F,6(Q\"rF'F/F2F5F8F;F/F2F8F;F
+]pF`pF/F2F8F;-FM61Q\";F'F/F2F8F;FPFRFTFVFXFZFfnFhn/F\\oQ,0.2777778emF'
+F^o-FM61Q\"~F'F/F2F8F;FP/FSF7FTFVFXFZFfnFhn/F\\oFjnF^o" }}{PARA 11 "" 
+1 "" {XPPMATH 20 "7$I%trueG%*protectedG7(7)Q/~~~relation~~06\"\"\"\"<%
+I\"AGF(I\"BGF(I\"CGF(F)<\"I.~~A+B+C~=~Pi~GF(\"\"$7)Q/~~~relation~~4F(F
+)<&F+F,I\"aGF(I\"bGF(F)F.I5a*sin(B)~=~b*sin(A)~GF(\"\")7)Q/~~~relation
+~~3F(\"\"!<&F-F4F5I\"cGF(F)<#F<I?c^2~=~a^2~+~b^2~-~2*a*b*cos(C)GF(\"#>
+7)Q0~~~relation~~10F(F)<&F4F5F<I\"pGF(F)F.I,2*p~=~a+b+cGF(\"\"%7)Q0~~~
+relation~~15F(F:<'I\"SGF(F4F5F<FCF)<#FII>S~=~sqrt(p*(p-a)*(p-b)*(p-c))
+GF(\"#77)Q0~~~relation~~14F(F)<%FIFCI\"rGF(F)F.I(S~=~p*rGF(\"\"#" }}}
+{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mrow(Typesetting:
+-mi(\"Solutionw\", family = \"Monospaced\", bold = \"true\", italic = \+
+\"false\", mathvariant = \"bold\", fontweight = \"bold\"), Typesetting
+:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\", italic = \"true\", m
+athvariant = \"italic\"), Typesetting:-ms(\"TAM_GIAC.txt\"), Typesetti
+ng:-mo(\",\", family = \"Monospaced\", bold = \"true\", mathvariant = \+
+\"bold\", fontweight = \"bold\", fence = \"false\", separator = \"true
+\", stretchy = \"false\", symmetric = \"false\", largeop = \"false\", \+
+movablelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rsp
+ace = \"0.3333333em\", equality = \"false\"), Typesetting:-mfenced(Typ
+esetting:-mrow(Typesetting:-mi(\"r\", family = \"Monospaced\", bold = \+
+\"true\", italic = \"false\", mathvariant = \"bold\", fontweight = \"b
+old\"), Typesetting:-mo(\",\", family = \"Monospaced\", bold = \"true
+\", mathvariant = \"bold\", fontweight = \"bold\", fence = \"false\", \+
+separator = \"true\", stretchy = \"false\", symmetric = \"false\", lar
+geop = \"false\", movablelimits = \"false\", accent = \"false\", lspac
+e = \"0.0em\", rspace = \"0.3333333em\", equality = \"false\"), Typese
+tting:-mi(\"A\", family = \"Monospaced\", bold = \"true\", italic = \"
+false\", mathvariant = \"bold\", fontweight = \"bold\"), Typesetting:-
+mo(\",\", family = \"Monospaced\", bold = \"true\", mathvariant = \"bo
+ld\", fontweight = \"bold\", fence = \"false\", separator = \"true\", \+
+stretchy = \"false\", symmetric = \"false\", largeop = \"false\", mova
+blelimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace \+
+= \"0.3333333em\", equality = \"false\"), Typesetting:-mi(\"b\", famil
+y = \"Monospaced\", bold = \"true\", italic = \"false\", mathvariant =
+ \"bold\", fontweight = \"bold\")), family = \"Monospaced\", bold = \"
+true\", mathvariant = \"bold\", fontweight = \"bold\", open = \"\{\", \+
+close = \"\}\"), Typesetting:-mo(\",\", family = \"Monospaced\", bold \+
+= \"true\", mathvariant = \"bold\", fontweight = \"bold\", fence = \"f
+alse\", separator = \"true\", stretchy = \"false\", symmetric = \"fals
+e\", largeop = \"false\", movablelimits = \"false\", accent = \"false
+\", lspace = \"0.0em\", rspace = \"0.3333333em\", equality = \"false\"
+), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"S\", famil
+y = \"Monospaced\", bold = \"true\", italic = \"false\", mathvariant =
+ \"bold\", fontweight = \"bold\")), family = \"Monospaced\", bold = \"
+true\", mathvariant = \"bold\", fontweight = \"bold\", open = \"\{\", \+
+close = \"\}\")), family = \"Monospaced\", bold = \"true\", mathvarian
+t = \"bold\", fontweight = \"bold\"), Typesetting:-mo(\";\", family = \+
+\"Monospaced\", bold = \"true\", mathvariant = \"bold\", fontweight = \+
+\"bold\", fence = \"false\", separator = \"true\", stretchy = \"false
+\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fals
+e\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.2777778em\",
+ equality = \"false\"), Typesetting:-mo(\" \", family = \"Monospaced\"
+, bold = \"true\", mathvariant = \"bold\", fontweight = \"bold\", fenc
+e = \"false\", separator = \"false\", stretchy = \"false\", symmetric \+
+= \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.0em\", rspace = \"0.0em\", equality = \"false
+\"));" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6&-I#miGF
+$6(Q*SolutionwF'/%'familyGQ+MonospacedF'/%%boldGQ%trueF'/%'italicGQ&fa
+lseF'/%,mathvariantGQ%boldF'/%+fontweightGF:-I(mfencedGF$6'-F#6(-F,6%Q
+!F'/F6F4/F9Q'italicF'-I#msGF$6#Q-TAM_GIAC.txtF'-I#moGF$61Q\",F'F/F2F8F
+;/%&fenceGF7/%*separatorGF4/%)stretchyGF7/%*symmetricGF7/%(largeopGF7/
+%.movablelimitsGF7/%'accentGF7/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333
+emF'/%)equalityGF7-F>6)-F#6'-F,6(Q\"rF'F/F2F5F8F;FL-F,6(Q\"AF'F/F2F5F8
+F;FL-F,6(Q\"bF'F/F2F5F8F;F/F2F8F;/%%openGQ\"|frF'/%&closeGQ\"|hrF'FL-F
+>6)-F#6#-F,6(Q\"SF'F/F2F5F8F;F/F2F8F;F]pF`pF/F2F8F;-FM61Q\";F'F/F2F8F;
+FPFRFTFVFXFZFfnFhn/F\\oQ,0.2777778emF'F^o-FM61Q\"~F'F/F2F8F;FP/FSF7FTF
+VFXFZFfnFhn/F\\oFjnF^o" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$I&falseG%*pr
+otectedG7\"" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-m
+row(Typesetting:-mi(\"Solutionw\", family = \"Monospaced\", bold = \"t
+rue\", italic = \"false\", mathvariant = \"bold\", fontweight = \"bold
+\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"\", ital
+ic = \"true\", mathvariant = \"italic\"), Typesetting:-ms(\"TAM_GIAC.t
+xt\"), Typesetting:-mo(\",\", family = \"Monospaced\", bold = \"true\"
+, mathvariant = \"bold\", fontweight = \"bold\", fence = \"false\", se
+parator = \"true\", stretchy = \"false\", symmetric = \"false\", large
+op = \"false\", movablelimits = \"false\", accent = \"false\", lspace \+
+= \"0.0em\", rspace = \"0.3333333em\", equality = \"false\"), Typesett
+ing:-mfenced(Typesetting:-mrow(Typesetting:-mi(\"r\", family = \"Monos
+paced\", bold = \"true\", italic = \"false\", mathvariant = \"bold\", \+
+fontweight = \"bold\"), Typesetting:-mo(\",\", family = \"Monospaced\"
+, bold = \"true\", mathvariant = \"bold\", fontweight = \"bold\", fenc
+e = \"false\", separator = \"true\", stretchy = \"false\", symmetric =
+ \"false\", largeop = \"false\", movablelimits = \"false\", accent = \+
+\"false\", lspace = \"0.0em\", rspace = \"0.3333333em\", equality = \"
+false\"), Typesetting:-mi(\"A\", family = \"Monospaced\", bold = \"tru
+e\", italic = \"false\", mathvariant = \"bold\", fontweight = \"bold\"
+), Typesetting:-mo(\",\", family = \"Monospaced\", bold = \"true\", ma
+thvariant = \"bold\", fontweight = \"bold\", fence = \"false\", separa
+tor = \"true\", stretchy = \"false\", symmetric = \"false\", largeop =
+ \"false\", movablelimits = \"false\", accent = \"false\", lspace = \"
+0.0em\", rspace = \"0.3333333em\", equality = \"false\"), Typesetting:
+-mi(\"b\", family = \"Monospaced\", bold = \"true\", italic = \"false
+\", mathvariant = \"bold\", fontweight = \"bold\")), family = \"Monosp
+aced\", bold = \"true\", mathvariant = \"bold\", fontweight = \"bold\"
+, open = \"\{\", close = \"\}\"), Typesetting:-mo(\",\", family = \"Mo
+nospaced\", bold = \"true\", mathvariant = \"bold\", fontweight = \"bo
+ld\", fence = \"false\", separator = \"true\", stretchy = \"false\", s
+ymmetric = \"false\", largeop = \"false\", movablelimits = \"false\", \+
+accent = \"false\", lspace = \"0.0em\", rspace = \"0.3333333em\", equa
+lity = \"false\"), Typesetting:-mfenced(Typesetting:-mrow(Typesetting:
+-mi(\"R\", family = \"Monospaced\", bold = \"true\", italic = \"false
+\", mathvariant = \"bold\", fontweight = \"bold\")), family = \"Monosp
+aced\", bold = \"true\", mathvariant = \"bold\", fontweight = \"bold\"
+, open = \"\{\", close = \"\}\")), family = \"Monospaced\", bold = \"t
+rue\", mathvariant = \"bold\", fontweight = \"bold\"), Typesetting:-mo
+(\";\", family = \"Monospaced\", bold = \"true\", mathvariant = \"bold
+\", fontweight = \"bold\", fence = \"false\", separator = \"true\", st
+retchy = \"false\", symmetric = \"false\", largeop = \"false\", movabl
+elimits = \"false\", accent = \"false\", lspace = \"0.0em\", rspace = \+
+\"0.2777778em\", equality = \"false\"), Typesetting:-mo(\" \", family \+
+= \"Monospaced\", bold = \"true\", mathvariant = \"bold\", fontweight \+
+= \"bold\", fence = \"false\", separator = \"false\", stretchy = \"fal
+se\", symmetric = \"false\", largeop = \"false\", movablelimits = \"fa
+lse\", accent = \"false\", lspace = \"0.0em\", rspace = \"0.0em\", equ
+ality = \"false\"), Typesetting:-mo(\" \", family = \"Monospaced\", bo
+ld = \"true\", mathvariant = \"bold\", fontweight = \"bold\", fence = \+
+\"false\", separator = \"false\", stretchy = \"false\", symmetric = \"
+false\", largeop = \"false\", movablelimits = \"false\", accent = \"fa
+lse\", lspace = \"0.0em\", rspace = \"0.0em\", equality = \"false\"));
+" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6'-I#miGF$6(Q*
+SolutionwF'/%'familyGQ+MonospacedF'/%%boldGQ%trueF'/%'italicGQ&falseF'
+/%,mathvariantGQ%boldF'/%+fontweightGF:-I(mfencedGF$6'-F#6(-F,6%Q!F'/F
+6F4/F9Q'italicF'-I#msGF$6#Q-TAM_GIAC.txtF'-I#moGF$61Q\",F'F/F2F8F;/%&f
+enceGF7/%*separatorGF4/%)stretchyGF7/%*symmetricGF7/%(largeopGF7/%.mov
+ablelimitsGF7/%'accentGF7/%'lspaceGQ&0.0emF'/%'rspaceGQ,0.3333333emF'/
+%)equalityGF7-F>6)-F#6'-F,6(Q\"rF'F/F2F5F8F;FL-F,6(Q\"AF'F/F2F5F8F;FL-
+F,6(Q\"bF'F/F2F5F8F;F/F2F8F;/%%openGQ\"|frF'/%&closeGQ\"|hrF'FL-F>6)-F
+#6#-F,6(Q\"RF'F/F2F5F8F;F/F2F8F;F]pF`pF/F2F8F;-FM61Q\";F'F/F2F8F;FPFRF
+TFVFXFZFfnFhn/F\\oQ,0.2777778emF'F^o-FM61Q\"~F'F/F2F8F;FP/FSF7FTFVFXFZ
+FfnFhn/F\\oFjnF^oF_q" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$I&falseG%*prot
+ectedG7\"" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "Typesetting:-mro
+w(Typesetting:-mo(\" \", mathvariant = \"normal\", fence = \"false\", \+
+separator = \"false\", stretchy = \"false\", symmetric = \"false\", la
+rgeop = \"false\", movablelimits = \"false\", accent = \"false\", lspa
+ce = \"0.0em\", rspace = \"0.0em\", equality = \"false\"));" "-I%mrowG
+6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6#-I#moGF$6.Q\"~F'/%,math
+variantGQ'normalF'/%&fenceGQ&falseF'/%*separatorGF4/%)stretchyGF4/%*sy
+mmetricGF4/%(largeopGF4/%.movablelimitsGF4/%'accentGF4/%'lspaceGQ&0.0e
+mF'/%'rspaceGFC/%)equalityGF4" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }

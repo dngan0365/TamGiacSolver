@@ -1,0 +1,151 @@
+
+object= TAM_GIAC
+
+  TamGiac[A, B, C]
+   variables
+      a = "doan[B, C]"
+      b = "doan[A, C]"
+      c = "doan[B, C]"
+      A = "goc cua tam giac"
+      B = "goc cua tam giac"
+      C = "goc cua tam giac"
+      ha = "duong cao ung voi canh a trong tam giac"
+      hb = "duong cao ung voi canh b trong tam giac"
+      hc = "duong cao ung voi canh c trong tam giac"
+      S = "dien tich tam giac"
+      p = "nua chu vi cua tam giac"
+      R = "ban kinh duong tron ngoai tiep tam giac"
+      r = "ban kinh duong tron noi tiep tam giac"
+
+   endvariables
+
+   relation  0
+     flag = 1
+     Mf    ={A, B, C}
+     rf    =1
+     vf    ={}
+     expf =`  A+B+C = Pi `
+     cost = 3
+   relation  1
+     flag = 0
+     Mf    ={a, b, c, A}
+     rf    =1
+     vf    ={a}
+     expf  =`  a^2 = b^2 + c^2 - 2*b*c*cos(A)`
+     cost=19
+
+   relation  2
+     flag = 0
+     Mf    ={a, b, c, B}
+     rf    =1
+     vf    ={b}
+     expf  =`b^2 = a^2 + c^2 - 2*a*c*cos(B)`
+     cost=19
+
+   relation  3
+     flag  =0
+     Mf    ={a, b, c, C}
+     rf    =1
+     vf    ={c}
+     expf = `c^2 = a^2 + b^2 - 2*a*b*cos(C)`
+     cost=19
+
+   relation  4
+     flag = 1
+     Mf  ={ a, b, A, B}
+     rf    =1
+     vf   ={}
+     expf = `a*sin(B) = b*sin(A) `
+     cost = 8
+  relation  5
+     flag = 1
+     Mf    ={b, c, B, C}
+     rf    =1
+     vf    ={}
+     expf = `b*sin(C) = c*sin(B)`
+     cost=8
+   relation  6
+     flag = 1
+     Mf    ={a, c, A, C}
+     rf    =1
+     vf    ={}
+     expf  =`a*sin(C) = c*sin(A)`
+     cost=8
+    relation  7
+     flag = 1
+     Mf    ={a, A, R}
+     rf    =1
+     vf    ={}
+     expf  =`a = 2*R*sin(A)`
+     cost=6
+   relation  8
+     flag = 1
+     Mf    ={b, B, R}
+     rf    =1
+     vf    ={}
+     expf  =`b = 2*R*sin(B)`
+     cost=6
+   relation  9
+     flag = 1
+     Mf    ={c, C, R}
+     rf    =1
+     vf    ={}
+     expf  =`c = 2*R*sin(C)`
+     cost=6
+   relation  10
+     flag = 1
+     Mf    ={p, a, b, c}
+     rf    =1
+     vf    ={}
+     expf = `2*p = a+b+c`
+     cost=4
+   relation  11
+     flag  =1
+     Mf    ={S, a, ha}
+     rf    =1
+     vf    ={}
+     expf =` S = a*ha/2`
+     cost=4
+
+   relation  12
+     flag  =1
+     Mf    ={S, b, hb}
+     rf    =1
+     vf    ={}
+     expf  =`S = b*hb/2`
+     cost=4
+
+   relation  13
+     flag = 1
+     Mf   = {S, c, hc}
+     rf    =1
+     vf    ={}
+     expf  =`S = c*hc/2`
+     cost=4
+
+   relation  14
+     flag = 1
+     Mf    ={S, p, r}
+     rf    =1
+     vf    ={}
+     expf  =`S = p*r`
+     cost=2
+
+   relation  15
+     flag = 0
+     Mf   ={S, a, b, c, p}
+     rf    =1
+     vf    ={S}
+     expf  =`S = sqrt(p*(p-a)*(p-b)*(p-c))`
+     cost=12
+
+   relation  16
+     flag  =1
+     Mf    ={S, b, c, A}
+     rf    =1
+     vf    ={}
+     expf  =`S = a*b*c/4R`
+     cost=8
+
+  
+
